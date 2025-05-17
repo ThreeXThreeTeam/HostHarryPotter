@@ -1,0 +1,12 @@
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\obj\Debug\net6.0\HoatHarryPotter.GeneratedMSBuildEditorConfig.editorconfig
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\obj\Debug\net6.0\HoatHarryPotter.AssemblyInfoInputs.cache
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\obj\Debug\net6.0\HoatHarryPotter.AssemblyInfo.cs
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\obj\Debug\net6.0\HoatHarryPotter.csproj.CoreCompileInputs.cache
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\bin\Debug\net6.0\HoatHarryPotter.deps.json
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\bin\Debug\net6.0\HoatHarryPotter.dll
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\bin\Debug\net6.0\HoatHarryPotter.pdb
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\obj\Debug\net6.0\HoatHarryPotter.dll
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\obj\Debug\net6.0\refint\HoatHarryPotter.dll
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\obj\Debug\net6.0\HoatHarryPotter.pdb
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\obj\Debug\net6.0\ref\HoatHarryPotter.dll
+D:\闲着无聊搞得小破模组系列\HostHarryPotter\HoatHarryPotter\HoatHarryPotter\obj\Debug\net6.0\HoatHarryPotter.csproj.AssemblyReference.cache

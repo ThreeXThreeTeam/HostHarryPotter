@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+        <Version>25.5.20</Version>
+        <Description>HostHarryPotter</Description>
+        <Authors>TXTteam</Authors>
+		<LangVersion>latest</LangVersion>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+        <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+        <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AmongUs.GameLibs.Steam" Version="2025.3.25" />
+    <PackageReference Include="BepInEx.Unity.IL2CPP" Version="6.0.0-be.733" />
+    <EmbeddedResource Include="Resources\**" />
+  </ItemGroup>
+
+</Project>
