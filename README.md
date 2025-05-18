@@ -1,8 +1,12 @@
 <div align="center">
-	
-![HostHarryPotter]([HoatHarryPotter/Resources/Assets/HostHarryPotterLOGO.png])
 
-**HostHarryPoteer 主机端哈利波特，您最棒的Among Us动漫类主机端模组。**
+ 
+![HostHarryPotter](HoatHarryPotter/Resources/Assets/HostHarrPotterLOGO.png)
+
+
+**HostHarryPoteer**
+
+**主机端哈利波特，您最棒的Among Us动漫类主机端模组。**
 
 <img src="https://badgen.net/github/license/ThreeXThreeTeam/HostHarryPotte" alt="Licences">
 <img src="https://badgen.net/github/tag/ThreeXThreeTeam/HostHarryPotte" alt="LatestTag">
